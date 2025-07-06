@@ -1,2 +1,2 @@
-# astrosuppoto
-This is a basic website for ring it's a e-commerce website
+ Bankist 
+ is a project to learn more about the array and working of javascript
